@@ -50,7 +50,7 @@ const app = express();
 app.use(express.json());  // parsing body
 // app.use(cors());
  app.use(cors({
-    origin: ['http://localhost:3000','https://file-upload-bucket.firebaseapp.com/',"*"],
+    origin: ['http://localhost:3000','https://file-upload-bucket.firebaseapp.com',"*"],
 //     // credentials: true
  }));
 
