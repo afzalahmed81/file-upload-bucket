@@ -4,7 +4,7 @@ import mongoose from 'mongoose';
 import { stringToHash, varifyHash } from "bcrypt-inzi";
 
 
-// mongoose.connect('mongodb+srv://abc:abc@cluster0.uhv9f8j.mongodb.net/?retryWrites=true&w=majority');
+// mongoose.connect('mongodb+srv://afzal81:afz@cluster0.9tmbp5a.mongodb.net/file-uploadDataBase?retryWrites=true&w=majority');
 
 import fs from 'fs';
 import admin from "firebase-admin";
