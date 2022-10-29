@@ -6,6 +6,7 @@
 .container{
     display: flex;
     justify-content: center;
+    background-color: rgb(128, 194, 168);
 }
 
 .form{

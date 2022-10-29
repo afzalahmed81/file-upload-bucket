@@ -144,7 +144,7 @@ let Products = () => {
             <hr />
 
 
-            <h1 className='header'>Kids_Wishh </h1>
+            <h1 className='header'>Products List </h1>
             <div className='main'>
                 {products?.map(eachProduct => (
                     <div className='productsListDiv' key={eachProduct?._id}>
